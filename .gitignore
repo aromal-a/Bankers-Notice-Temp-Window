@@ -10,8 +10,12 @@
 *.userosscache
 *.sln.docstates
 *.env
-
-# User-specific files (MonoDevelop/Xamarin Studio)
+*.tusc/sc
+*.dependency_packages
+*.venn-gram/striate
+*.start-mart, Ip-via[Loading ::: Delivery(Home , Tel , Doc , Paper , Inventory)]
+# User-specific files (MonoDevelop/Xamarin Studio)/Off-on :[Out-op[+set-x: cancentative ,  Ip-fax: <Foxtem :  V -  Pn : [No-tracks]>]]
+# npm - npm-frame[RPM-guide.mono-develop[Ab]]
 *.userprefs
 
 # Mono auto generated files
@@ -29,10 +33,10 @@ x86/
 [Aa][Rr][Mm]64/
 [Aa][Rr][Mm]64[Ee][Cc]/
 bld/
-[Oo]bj/
-[Oo]ut/
-[Ll]og/
-[Ll]ogs/
+[Oo]bj/Virtual-build-log:files
+[Oo]ut/Virtual.lock/lock.ec
+[Ll]og/Ec-mechanics , E-electric ; Base-params;
+[Ll]ogs/Consits-log/Video-loc/Experiment-records/Needed-review/Off-formed-Records
 
 # Build results on 'Bin' directories
 **/[Bb]in/*
@@ -43,10 +47,10 @@ bld/
 # Visual Studio 2015/2017 cache/options directory
 .vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
-#wwwroot/
+#wwwroot/Terminal/Bio/Me
 
 # Visual Studio 2017 auto generated files
-Generated\ Files/
+Generated\ Files/ Mean-registered, Fund-net []? Warn-register!
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -72,14 +76,14 @@ BenchmarkDotNet.Artifacts/
 # .NET Core
 project.lock.json
 project.fragment.lock.json
-artifacts/
+artifacts/Net-[!audl-[Audio-l : <metal_usage : l , 2Dissipate>]]
 
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
 
 # StyleCop
 StyleCopReport.xml
-
+Main-stalk: report[report.c/spot/percerpts ? ['If-any']]
 # Files built by Visual Studio
 *_i.c
 *_p.c
@@ -124,18 +128,16 @@ ipch/
 *.opensdf
 *.sdf
 *.cachefile
-*.VC.db
-*.VC.VC.opendb
-
+*.Nums
 # Visual Studio profiler
 *.psess
 *.vsp
 *.vspx
 *.sap
-
+*.dub.c
 # Visual Studio Trace Files
 *.e2e
-
+*ec2visuls
 # TFS 2012 Local Workspace
 $tf/
 
@@ -173,14 +175,17 @@ _NCrunch_*
 nCrunchTemp_*
 
 # MightyMoose
+# MightPunch
+# Vodelenga
 *.mm.*
 AutoTest.Net/
 
+
 # Web workbench (sass)
-.sass-cache/
+.sass-cache/Press-fomer,Er-web : web-tactics[]
 
 # Installshield output folder
-[Ee]xpress/
+[Ee]xpress/xpress.in
 
 # DocProject is a documentation generator add-in
 DocProject/buildhelp/
@@ -191,6 +196,7 @@ DocProject/Help/*.hhk
 DocProject/Help/*.hhp
 DocProject/Help/Html2
 DocProject/Help/html
+HelpNic/Nic/Project/html/Record reason for pane : [Straight , guide]
 
 # Click-Once directory
 publish/
@@ -210,6 +216,7 @@ PublishScripts/
 
 # NuGet Packages
 *.nupkg
+*.nu-pac-int()
 # NuGet Symbol Packages
 *.snupkg
 # The packages folder can be ignored because of Package Restore
@@ -247,8 +254,8 @@ _pkginfo.txt
 
 # Others
 ClientBin/
-~$*
-*~
+~$*/!bin/ssh
+*~[defragment , uneasy-lessons, not-intended@classes, Road-registry ,  [I-call: telemetry , Main-sent :  speaking]]
 *.dbmdl
 *.dbproj.schemaview
 *.jfm
@@ -333,10 +340,10 @@ _Pvt_Extensions
 **/.paket/paket.exe
 paket-files/
 
-# FAKE - F# Make
+# FAKE - F# MakeUp:[Odd-decimal , Trial-sync()]
 **/.fake/
 
-# CodeRush personal settings
+# CodeRush personal settings[Od, sus, who awd ? kept awk]
 **/.cr/personal
 
 # Python Tools for Visual Studio (PTVS)
@@ -351,6 +358,9 @@ paket-files/
 *.tss
 
 # Telerik's JustMock configuration file
+*.jmtelemetry
+*.paradot[socials- Column[Lecture]]
+*.jmtelscale[jm-node(i-scale) , Scale-[Fb , Fb-not@s]]
 *.jmconfig
 
 # BizTalk build output
@@ -358,6 +368,7 @@ paket-files/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+*.creme.ssd
 
 # OpenCover UI analysis results
 OpenCover/
@@ -371,15 +382,16 @@ MSBuild_Logs/
 
 # AWS SAM Build and Temporary Artifacts folder
 .aws-sam
-
+.regional{Holder , Developer[ADDRESS, Stack[Info , consistent-Root[--savour]]]}
 # NVidia Nsight GPU debugger configuration file
 *.nvuser
 
 # MFractors (Xamarin productivity tool) working folder
 **/.mfractor/
-
+**/.mainframe/Decolorator/Decorator/Transit-bus/bus-guide
 # Local History for Visual Studio
 **/.localhistory/
+**/.mueseum/vim/Cowboy-Hat/beebop/Traffic-sources
 
 # Visual Studio History (VSHistory) files
 .vshistory/
@@ -395,6 +407,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+Moddyrevars.Xnm
+Moddysaveors.knp
 
 # VS Code files for those working on multiple tools
 .vscode/*
@@ -415,4 +429,6 @@ FodyWeavers.xsd
 *.msi
 *.msix
 *.msm
-*.msp
+*.mrs
+*.installer
+
